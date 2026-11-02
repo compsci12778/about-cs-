@@ -1,4 +1,6 @@
-li {
-     color:pink;
-     background-color: aqua;
+p {
+  color:pink;
+  background-color:purple;
+  padding-top: 10px;
+  border-style: groove;
 }
